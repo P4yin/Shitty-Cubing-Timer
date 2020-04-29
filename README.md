@@ -1,0 +1,2 @@
+# Shitty-Cubing-Timer
+Lmao 
