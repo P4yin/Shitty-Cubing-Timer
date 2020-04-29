@@ -1,5 +1,5 @@
 # Shitty-Cubing-Timer
-Lmao.
+Lmao. This MIGHT be accurate.
 If your non copyrightable name here time breaks, use this timer.
 I used an Atmega328 microcontroller to control this with Arduino Uno bootloaded on.
 This was coded in Arduino.
