@@ -1,6 +1,4 @@
-//only uno now, no more nan0
-//A0 above 900 when not touched, jumps to around sub 700 when touched
-//A5 above 900 when not touched, jumps to ariund sub 800 when touched   
+//only uno 
 #include <elapsedMillis.h>
 #include <LiquidCrystal.h> 
 //fuck wire.h
