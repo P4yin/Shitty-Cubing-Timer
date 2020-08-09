@@ -9,3 +9,6 @@ How to use:
 In any way conveievable, upload your code to your microcontroller. Press the non reset button, and then place your fingers/hands against the light sensor(s) (https://solarbotics.com/product/17092/). Then let go and it should start. Then to stop place fingers/hands against sensor(s). Wacth my videos of them:
 v1: https://youtu.be/2F20dXcIyUc
 v2: https://youtu.be/Te_RLndKJIo
+
+*NOTE*
+YOU DONT NEED BOTH FILES TO GET IT TO WORK
