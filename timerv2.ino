@@ -1,7 +1,7 @@
 //only uno 
 #include <elapsedMillis.h>
 #include <LiquidCrystal.h> 
-//fuck wire.h
+
 byte sw= 2; //change to whatever input you choose
 byte ledstate = 0; //led state
 byte state = 0; //program state
